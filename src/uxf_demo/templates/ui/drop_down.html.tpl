@@ -50,6 +50,10 @@
                 <td><span class="highlight">value_change( value, text )</span></td>
                 <td>Triggered when an item is selected.</td>
             </tr>
+            <tr>
+                <td><span class="highlight">pre_show</span></td>
+                <td>Triggered when the panel is going to be shown.</td>
+            </tr>
         </table>
 
     </div>
